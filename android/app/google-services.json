@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386739471015",
+    "project_id": "produtos-best-of-lanches",
+    "storage_bucket": "produtos-best-of-lanches.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386739471015:android:5d2703050fbc768c0a9182",
+        "android_client_info": {
+          "package_name": "com.example.lanchonete_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDSvsBykSsgQNM3-eIoO0LNDYuz-GQzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386739471015:android:faaf43c8764023930a9182",
+        "android_client_info": {
+          "package_name": "com.example.painel_administrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDSvsBykSsgQNM3-eIoO0LNDYuz-GQzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

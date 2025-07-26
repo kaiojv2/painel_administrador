@@ -1,0 +1,72 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+coverage/
+.pub-cache/
+generated_plugin_registrant.dart
+
+# Arquivos do Flutter Web
+web/.dart_tool/
+web/build/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Android Studio
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+*.iml
+local.properties
+
+# iOS/macOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/.symlinks/
+ios/Pods/
+ios/.dart_tool/
+ios/build/
+
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.dart_tool/
+macos/build/
+
+# Windows/Linux/Desktop
+windows/
+linux/
+macos/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Firebase config temporária (caso baixe manualmente)
+firebase-debug.log
+
+# Node (caso use Firebase Functions ou similar)
+node_modules/
+
+# Arquivos que você já pediu pra ignorar:
+painel_administrador.iml
